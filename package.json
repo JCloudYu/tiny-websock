@@ -1,0 +1,17 @@
+{
+	"name": "tiny-websock",
+	"version": "0.1.0",
+	"description": "A wrapper version to make ease use of websocket package",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"WebSocket"
+	],
+	"author": "JCloudYu",
+	"license": "WTFPL",
+	"dependencies": {
+		"websocket": "~1.0.26"
+	}
+}

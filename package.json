@@ -6,11 +6,20 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JCloudYu/tiny-websock.git"
+	},
 	"keywords": [
 		"WebSocket"
 	],
 	"author": "JCloudYu",
 	"license": "WTFPL",
+	"bugs": {
+		"url": "https://github.com/JCloudYu/tiny-websock/issues"
+	},
+	"homepage": "https://github.com/JCloudYu/tiny-websock#readme",
+	"devDependencies": {},
 	"dependencies": {
 		"websocket": "~1.0.26"
 	}
